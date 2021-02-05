@@ -13,9 +13,9 @@
 
     vim: expandtab sw=4 ts=4 sts=4:
 **********************************************************************/
-/*
-require('client.inc.php');
 
+require('client.inc.php');
+/*
 require_once INCLUDE_DIR . 'class.page.php';
 
 $section = 'home';
